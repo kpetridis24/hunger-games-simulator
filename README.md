@@ -2,6 +2,7 @@
 Java program of hunger games and implementation in graphics environment
 
 ~ Board ~
+
 In this program, we set a table on top of which the game will be played, there are two players against each other and items such as weapons,
 food, traps that are randomly spawned on the board. After every few rounds, the board gets smaller, bringing the two players closer to each
 other. We define three basic categories of players. 
