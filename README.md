@@ -31,3 +31,7 @@ the JavaFX from eclipse's "download new software". Then you should update the ap
 When all this is done and you run the code, the board will appear on screen. First you choose the two kinds of players that you like, then you press 
 "Generate Board", and then you can go through the gameplay by simply clicking on "play". The game will be over when one player kills the other and the winner
 will be announced along with the points that he managed to collect.
+
+~ Code Weaknesses ~
+
+none
